@@ -1,0 +1,6 @@
+[submodule "event-map-django"]
+	path = event-map-django
+	url = https://github.com/indigowar/event-map-django.git
+[submodule "sevsu-event-map-frontend"]
+	path = sevsu-event-map-frontend
+	url = https://github.com/osman-seitmemetov/sevsu-event-map-frontend.git
